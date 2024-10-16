@@ -1,5 +1,7 @@
 ---
-title: about
+title: Home
+layout: home
+has_children: true
 ---
 HTML
 XHTML
