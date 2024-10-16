@@ -2,7 +2,7 @@
 title: Home
 layout: home
 ---
-# lenguaje de marcas
+# Lenguaje de Marcas
 
 ![Lenguaje](/imagenes/imagen.jpg)
 
