@@ -3,9 +3,9 @@ title: Home
 layout: home
 has_children: true
 ---
-HTML
-XHTML
-Wireless ML
-Handhelp ML
-RDF
-Meta Content Framework
++ HTML
++ XHTML
++ Wireless ML
++ Handhelp ML
++ RDF
++ Meta Content Framework
