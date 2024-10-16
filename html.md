@@ -1,6 +1,6 @@
 ---
 title: Html
-layout: html
+layout: home
 parent: about
 nav_order: 1
 ---
