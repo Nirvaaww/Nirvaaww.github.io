@@ -1,5 +1,5 @@
 ---
 layout: redirect
-redirect_to: "/ruta/a/la/pagina-destino"  # Cambia esto a la URL de destino
+redirect_to: "https://github.com/Nirvaaww/Nirvaaww.github.io"
 title: "Redirect to github"
 ---
